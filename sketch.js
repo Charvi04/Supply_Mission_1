@@ -73,6 +73,6 @@ function keyPressed() {
     helicopterSprite.velocityX = 3;
   }
 }
-
+ 
 
 
